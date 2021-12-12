@@ -1,0 +1,325 @@
+2021-11-28 12:23:51,216 [main] INFO eBanking - URL Lunched
+2021-11-28 12:23:51,370 [main] INFO eBanking - Entered username
+2021-11-28 12:23:51,467 [main] INFO eBanking - ENtered Password
+2021-11-28 12:24:01,707 [main] INFO eBanking - Loggin test passed
+2021-11-28 19:05:55,148 [main] INFO eBanking - URL Lunched
+2021-11-28 19:05:55,323 [main] INFO eBanking - Entered username
+2021-11-28 19:05:55,415 [main] INFO eBanking - ENtered Password
+2021-11-28 19:06:05,655 [main] INFO eBanking - Logging test passed
+2021-11-28 19:07:15,894 [main] INFO eBanking - URL Lunched
+2021-11-28 19:07:16,055 [main] INFO eBanking - Entered username3
+2021-11-28 19:07:16,129 [main] INFO eBanking - ENtered Password
+2021-11-28 19:07:26,392 [main] INFO eBanking - Logging test passed
+2021-11-29 10:19:56,933 [main] INFO eBanking - URL Lunched
+2021-11-29 10:19:57,178 [main] INFO eBanking - Entered username3
+2021-11-29 10:19:57,261 [main] INFO eBanking - ENtered Password
+2021-11-29 10:20:07,515 [main] INFO eBanking - Logging test passed
+2021-12-02 09:35:31,243 [main] INFO eBanking - URL Lunched
+2021-12-02 09:35:31,440 [main] INFO eBanking - Entered username3
+2021-12-02 09:35:31,535 [main] INFO eBanking - ENtered Password
+2021-12-02 09:35:41,686 [main] INFO eBanking - Logging test passed
+2021-12-02 09:38:56,821 [main] INFO eBanking - URL Lunched
+2021-12-02 09:38:57,037 [main] INFO eBanking - Entered username3
+2021-12-02 09:38:57,179 [main] INFO eBanking - ENtered Password
+2021-12-02 09:39:07,624 [main] INFO eBanking - Logging test passed
+2021-12-02 09:40:28,199 [main] INFO eBanking - URL Lunched
+2021-12-02 09:40:28,431 [main] INFO eBanking - Entered username3
+2021-12-02 09:40:28,553 [main] INFO eBanking - ENtered Password
+2021-12-02 09:40:38,874 [main] INFO eBanking - Loging Test failed
+2021-12-02 11:36:39,038 [main] INFO eBanking - URL Lunched
+2021-12-02 11:36:39,269 [main] INFO eBanking - Entered username3
+2021-12-02 11:36:39,396 [main] INFO eBanking - ENtered Password
+2021-12-02 11:36:49,709 [main] INFO eBanking - Loging Test failed
+2021-12-02 11:44:26,745 [main] INFO eBanking - URL Lunched
+2021-12-02 11:44:26,949 [main] INFO eBanking - Entered username3
+2021-12-02 11:44:27,041 [main] INFO eBanking - ENtered Password
+2021-12-02 11:44:37,386 [main] INFO eBanking - Loging Test failed
+2021-12-02 11:45:56,059 [main] INFO eBanking - URL Lunched
+2021-12-02 11:45:56,302 [main] INFO eBanking - Entered username3
+2021-12-02 11:45:56,388 [main] INFO eBanking - ENtered Password
+2021-12-02 11:46:06,669 [main] INFO eBanking - Loging Test failed
+2021-12-02 12:14:36,448 [main] INFO eBanking - URL Lunched
+2021-12-02 12:14:36,593 [main] INFO eBanking - Entered username3
+2021-12-02 12:14:36,691 [main] INFO eBanking - ENtered Password
+2021-12-02 12:14:46,880 [main] INFO eBanking - Loging Test failed
+2021-12-02 12:37:36,786 [main] INFO eBanking - URL Lunched
+2021-12-02 12:37:36,897 [main] INFO eBanking - Entered username3
+2021-12-02 12:37:36,968 [main] INFO eBanking - ENtered Password
+2021-12-02 12:37:47,117 [main] INFO eBanking - Loging Test failed
+2021-12-02 13:24:14,392 [main] INFO eBanking - URL Lunched
+2021-12-02 13:24:14,501 [main] INFO eBanking - Entered username3
+2021-12-02 13:24:14,573 [main] INFO eBanking - ENtered Password
+2021-12-02 13:24:24,996 [main] INFO eBanking - Loging Test failed
+2021-12-02 14:29:29,268 [main] INFO eBanking - URL Lunched
+2021-12-02 14:29:29,371 [main] INFO eBanking - Entered username3
+2021-12-02 14:29:29,445 [main] INFO eBanking - ENtered Password
+2021-12-02 14:30:47,900 [main] INFO eBanking - URL Lunched
+2021-12-02 14:30:47,991 [main] INFO eBanking - Entered username3
+2021-12-02 14:30:48,058 [main] INFO eBanking - ENtered Password
+2021-12-02 14:34:24,744 [main] INFO eBanking - URL Lunched
+2021-12-02 14:34:24,843 [main] INFO eBanking - Entered username3
+2021-12-02 14:34:24,928 [main] INFO eBanking - ENtered Password
+2021-12-02 14:37:19,724 [main] INFO eBanking - URL Lunched
+2021-12-02 14:37:19,820 [main] INFO eBanking - Entered username3
+2021-12-02 14:37:19,895 [main] INFO eBanking - ENtered Password
+2021-12-02 14:39:28,898 [main] INFO eBanking - URL Lunched
+2021-12-02 14:39:29,000 [main] INFO eBanking - Entered username3
+2021-12-02 14:39:29,083 [main] INFO eBanking - ENtered Password
+2021-12-02 14:40:33,098 [main] INFO eBanking - URL Lunched
+2021-12-02 14:40:33,204 [main] INFO eBanking - Entered username3
+2021-12-02 14:40:33,291 [main] INFO eBanking - ENtered Password
+2021-12-02 14:45:23,039 [main] INFO eBanking - URL Lunched
+2021-12-02 14:45:23,136 [main] INFO eBanking - Entered username3
+2021-12-02 14:45:23,213 [main] INFO eBanking - ENtered Password
+2021-12-03 10:32:39,721 [main] INFO eBanking - URL Lunched
+2021-12-03 10:32:39,902 [main] INFO eBanking - Entered username3
+2021-12-03 10:32:39,982 [main] INFO eBanking - ENtered Password
+2021-12-03 10:32:50,153 [main] INFO eBanking - Logging test passed
+2021-12-04 11:23:55,986 [main] INFO eBanking - URL Lunched
+2021-12-04 11:23:56,259 [main] INFO eBanking - Entered username3
+2021-12-04 11:23:56,333 [main] INFO eBanking - ENtered Password
+2021-12-04 11:24:06,678 [main] INFO eBanking - Logging test passed
+2021-12-04 11:51:09,370 [main] INFO eBanking - URL Lunched
+2021-12-04 11:51:09,627 [main] INFO eBanking - Entered username3
+2021-12-04 11:51:09,721 [main] INFO eBanking - ENtered Password
+2021-12-04 19:20:12,125 [main] INFO eBanking - Entered username
+2021-12-04 19:20:12,204 [main] INFO eBanking - Entered password
+2021-12-04 19:20:13,933 [main] INFO eBanking - login passed
+2021-12-04 19:20:15,719 [main] INFO eBanking - Entered username
+2021-12-04 19:20:15,786 [main] INFO eBanking - Entered password
+2021-12-04 19:20:17,365 [main] INFO eBanking - Entered username
+2021-12-04 19:20:17,428 [main] INFO eBanking - Entered password
+2021-12-04 19:20:18,874 [main] INFO eBanking - Entered username
+2021-12-04 19:20:18,938 [main] INFO eBanking - Entered password
+2021-12-04 19:20:19,425 [main] INFO eBanking - login passed
+2021-12-04 19:20:21,062 [main] INFO eBanking - Entered username
+2021-12-04 19:20:21,123 [main] INFO eBanking - Entered password
+2021-12-05 10:45:55,717 [main] INFO eBanking - Entered username
+2021-12-05 10:45:55,847 [main] INFO eBanking - Entered password
+2021-12-05 10:45:57,813 [main] INFO eBanking - login passed
+2021-12-05 10:45:59,800 [main] INFO eBanking - Entered username
+2021-12-05 10:45:59,872 [main] INFO eBanking - Entered password
+2021-12-05 10:46:01,392 [main] INFO eBanking - Entered username
+2021-12-05 10:46:01,460 [main] INFO eBanking - Entered password
+2021-12-05 10:46:03,114 [main] INFO eBanking - Entered username
+2021-12-05 10:46:03,185 [main] INFO eBanking - Entered password
+2021-12-05 10:46:03,818 [main] INFO eBanking - login passed
+2021-12-05 10:46:05,606 [main] INFO eBanking - Entered username
+2021-12-05 10:46:05,712 [main] INFO eBanking - Entered password
+2021-12-05 10:47:45,231 [main] INFO eBanking - Entered username
+2021-12-05 10:47:45,380 [main] INFO eBanking - Entered password
+2021-12-05 10:47:47,126 [main] INFO eBanking - login passed
+2021-12-05 10:47:49,339 [main] INFO eBanking - Entered username
+2021-12-05 10:47:49,405 [main] INFO eBanking - Entered password
+2021-12-05 10:47:51,057 [main] INFO eBanking - Entered username
+2021-12-05 10:47:51,123 [main] INFO eBanking - Entered password
+2021-12-05 10:47:52,709 [main] INFO eBanking - Entered username
+2021-12-05 10:47:52,805 [main] INFO eBanking - Entered password
+2021-12-05 10:47:53,439 [main] INFO eBanking - login passed
+2021-12-05 10:47:55,836 [main] INFO eBanking - Entered username
+2021-12-05 10:47:55,914 [main] INFO eBanking - Entered password
+2021-12-05 13:22:15,384 [main] INFO eBanking - Username is provided
+2021-12-05 13:22:15,487 [main] INFO eBanking - Username is provided
+2021-12-05 13:22:19,818 [main] INFO eBanking - Customer detail is provided
+2021-12-05 13:22:24,232 [main] INFO eBanking - email is provided
+2021-12-05 13:22:24,306 [main] INFO eBanking - click submit
+2021-12-05 17:47:15,355 [main] INFO eBanking - Username is provided
+2021-12-05 17:47:15,539 [main] INFO eBanking - Username is provided
+2021-12-05 17:47:19,899 [main] INFO eBanking - Customer detail is provided
+2021-12-05 17:47:24,401 [main] INFO eBanking - email is provided
+2021-12-05 17:47:24,506 [main] INFO eBanking - click submit
+2021-12-05 17:50:22,525 [main] INFO eBanking - Username is provided
+2021-12-05 17:50:22,731 [main] INFO eBanking - Username is provided
+2021-12-05 17:50:27,387 [main] INFO eBanking - Customer detail is provided
+2021-12-05 17:50:34,656 [main] INFO eBanking - email is provided
+2021-12-05 17:50:37,852 [main] INFO eBanking - click submit
+2021-12-05 17:53:07,717 [main] INFO eBanking - Username is provided
+2021-12-05 17:53:07,881 [main] INFO eBanking - Username is provided
+2021-12-05 17:53:12,585 [main] INFO eBanking - Customer detail is provided
+2021-12-05 17:53:19,886 [main] INFO eBanking - email is provided
+2021-12-05 17:53:28,085 [main] INFO eBanking - click submit
+2021-12-05 17:57:34,534 [main] INFO eBanking - Entered username
+2021-12-05 17:57:34,624 [main] INFO eBanking - Entered password
+2021-12-05 17:57:36,330 [main] INFO eBanking - login passed
+2021-12-05 17:57:38,587 [main] INFO eBanking - Entered username
+2021-12-05 17:57:38,648 [main] INFO eBanking - Entered password
+2021-12-05 17:57:40,378 [main] INFO eBanking - Entered username
+2021-12-05 17:57:40,496 [main] INFO eBanking - Entered password
+2021-12-05 17:57:42,040 [main] INFO eBanking - Entered username
+2021-12-05 17:57:42,156 [main] INFO eBanking - Entered password
+2021-12-05 17:57:42,828 [main] INFO eBanking - login passed
+2021-12-05 17:57:45,076 [main] INFO eBanking - Entered username
+2021-12-05 17:57:45,193 [main] INFO eBanking - Entered password
+2021-12-05 17:57:51,857 [main] INFO eBanking - Username is provided
+2021-12-05 17:57:52,032 [main] INFO eBanking - Username is provided
+2021-12-05 17:57:56,509 [main] INFO eBanking - Customer detail is provided
+2021-12-05 17:58:04,033 [main] INFO eBanking - email is provided
+2021-12-05 17:58:12,202 [main] INFO eBanking - click submit
+2021-12-05 20:13:33,811 [main] INFO eBanking - URL Lunched
+2021-12-05 20:13:33,934 [main] INFO eBanking - Entered username3
+2021-12-05 20:13:34,011 [main] INFO eBanking - ENtered Password
+2021-12-05 20:13:52,978 [main] INFO eBanking - Username is provided
+2021-12-05 20:13:53,071 [main] INFO eBanking - Username is provided
+2021-12-05 20:13:57,311 [main] INFO eBanking - Customer detail is provided
+2021-12-05 20:14:04,746 [main] INFO eBanking - email is provided
+2021-12-05 20:14:12,867 [main] INFO eBanking - click submit
+2021-12-05 20:34:59,512 [main] INFO eBanking - URL Lunched
+2021-12-05 20:34:59,632 [main] INFO eBanking - Entered username3
+2021-12-05 20:34:59,710 [main] INFO eBanking - ENtered Password
+2021-12-05 20:35:15,082 [main] INFO eBanking - Username is provided
+2021-12-05 20:35:15,180 [main] INFO eBanking - Username is provided
+2021-12-05 20:35:19,584 [main] INFO eBanking - Customer detail is provided
+2021-12-05 20:35:26,994 [main] INFO eBanking - email is provided
+2021-12-05 20:35:35,090 [main] INFO eBanking - click submit
+2021-12-05 20:47:07,798 [main] INFO eBanking - URL Lunched
+2021-12-05 20:47:07,909 [main] INFO eBanking - Entered username3
+2021-12-05 20:47:07,979 [main] INFO eBanking - ENtered Password
+2021-12-05 20:47:22,873 [main] INFO eBanking - Username is provided
+2021-12-05 20:47:22,976 [main] INFO eBanking - Username is provided
+2021-12-05 20:47:27,468 [main] INFO eBanking - Customer detail is provided
+2021-12-05 20:47:34,940 [main] INFO eBanking - email is provided
+2021-12-05 20:47:43,048 [main] INFO eBanking - click submit
+2021-12-07 09:30:21,848 [main] INFO eBanking - URL Lunched
+2021-12-07 09:30:22,063 [main] INFO eBanking - Entered username3
+2021-12-07 09:30:22,150 [main] INFO eBanking - ENtered Password
+2021-12-07 09:30:38,568 [main] INFO eBanking - Username is provided
+2021-12-07 09:30:38,706 [main] INFO eBanking - Username is provided
+2021-12-07 09:30:43,101 [main] INFO eBanking - Customer detail is provided
+2021-12-07 09:30:50,616 [main] INFO eBanking - email is provided
+2021-12-07 09:30:58,777 [main] INFO eBanking - click submit
+2021-12-08 09:15:51,790 [main] INFO eBanking - URL Lunched
+2021-12-08 09:15:52,037 [main] INFO eBanking - Entered username3
+2021-12-08 09:15:52,115 [main] INFO eBanking - ENtered Password
+2021-12-08 09:16:07,672 [main] INFO eBanking - Username is provided
+2021-12-08 09:16:07,794 [main] INFO eBanking - Username is provided
+2021-12-08 09:16:12,071 [main] INFO eBanking - Customer detail is provided
+2021-12-08 09:16:19,622 [main] INFO eBanking - email is provided
+2021-12-08 09:16:27,800 [main] INFO eBanking - click submit
+2021-12-08 09:22:29,715 [main] INFO eBanking - URL Lunched
+2021-12-08 09:22:29,947 [main] INFO eBanking - Entered username3
+2021-12-08 09:22:30,093 [main] INFO eBanking - ENtered Password
+2021-12-08 09:22:46,536 [main] INFO eBanking - Username is provided
+2021-12-08 09:22:46,827 [main] INFO eBanking - Username is provided
+2021-12-08 09:22:51,206 [main] INFO eBanking - Customer detail is provided
+2021-12-08 09:22:58,924 [main] INFO eBanking - email is provided
+2021-12-08 09:23:07,147 [main] INFO eBanking - click submit
+2021-12-08 09:24:20,058 [main] INFO eBanking - URL Lunched
+2021-12-08 09:24:20,227 [main] INFO eBanking - Entered username3
+2021-12-08 09:24:20,380 [main] INFO eBanking - ENtered Password
+2021-12-08 09:24:35,946 [main] INFO eBanking - Username is provided
+2021-12-08 09:24:36,199 [main] INFO eBanking - Username is provided
+2021-12-08 09:24:40,514 [main] INFO eBanking - Customer detail is provided
+2021-12-08 09:24:48,283 [main] INFO eBanking - email is provided
+2021-12-08 09:24:56,445 [main] INFO eBanking - click submit
+2021-12-08 09:25:36,677 [main] INFO eBanking - URL Lunched
+2021-12-08 09:25:36,830 [main] INFO eBanking - Entered username3
+2021-12-08 09:25:36,907 [main] INFO eBanking - ENtered Password
+2021-12-08 09:25:51,917 [main] INFO eBanking - Username is provided
+2021-12-08 09:25:52,094 [main] INFO eBanking - Username is provided
+2021-12-08 09:25:56,466 [main] INFO eBanking - Customer detail is provided
+2021-12-08 09:26:03,918 [main] INFO eBanking - email is provided
+2021-12-08 09:26:12,099 [main] INFO eBanking - click submit
+2021-12-08 09:26:58,315 [main] INFO eBanking - URL Lunched
+2021-12-08 09:26:58,468 [main] INFO eBanking - Entered username3
+2021-12-08 09:26:58,562 [main] INFO eBanking - ENtered Password
+2021-12-08 09:27:08,894 [main] INFO eBanking - Logging test passed
+2021-12-08 09:27:13,662 [main] INFO eBanking - Username is provided
+2021-12-08 09:27:13,849 [main] INFO eBanking - Username is provided
+2021-12-08 09:27:18,214 [main] INFO eBanking - Customer detail is provided
+2021-12-08 09:27:25,885 [main] INFO eBanking - email is provided
+2021-12-08 09:27:34,058 [main] INFO eBanking - click submit
+2021-12-09 10:03:07,237 [main] INFO eBanking - URL Lunched
+2021-12-09 10:03:07,465 [main] INFO eBanking - Entered username3
+2021-12-09 10:03:07,604 [main] INFO eBanking - ENtered Password
+2021-12-09 10:03:18,175 [main] INFO eBanking - Logging test passed
+2021-12-09 10:03:25,330 [main] INFO eBanking - Username is provided
+2021-12-09 10:03:25,658 [main] INFO eBanking - Username is provided
+2021-12-09 10:03:30,162 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:03:37,824 [main] INFO eBanking - email is provided
+2021-12-09 10:03:46,059 [main] INFO eBanking - click submit
+2021-12-09 10:04:35,236 [main] INFO eBanking - URL Lunched
+2021-12-09 10:04:35,596 [main] INFO eBanking - Entered username3
+2021-12-09 10:04:35,733 [main] INFO eBanking - ENtered Password
+2021-12-09 10:04:46,632 [main] INFO eBanking - Logging test passed
+2021-12-09 10:04:53,632 [main] INFO eBanking - Username is provided
+2021-12-09 10:04:53,855 [main] INFO eBanking - Username is provided
+2021-12-09 10:04:58,291 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:05:05,912 [main] INFO eBanking - email is provided
+2021-12-09 10:05:14,143 [main] INFO eBanking - click submit
+2021-12-09 10:13:06,056 [main] INFO eBanking - URL Lunched
+2021-12-09 10:13:06,227 [main] INFO eBanking - Entered username3
+2021-12-09 10:13:06,339 [main] INFO eBanking - ENtered Password
+2021-12-09 10:13:16,743 [main] INFO eBanking - Logging test passed
+2021-12-09 10:13:21,441 [main] INFO eBanking - Username is provided
+2021-12-09 10:13:21,564 [main] INFO eBanking - Username is provided
+2021-12-09 10:13:25,841 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:13:33,536 [main] INFO eBanking - email is provided
+2021-12-09 10:13:41,745 [main] INFO eBanking - click submit
+2021-12-09 10:14:14,986 [main] INFO eBanking - URL Lunched
+2021-12-09 10:14:15,128 [main] INFO eBanking - Entered username3
+2021-12-09 10:14:15,232 [main] INFO eBanking - ENtered Password
+2021-12-09 10:14:25,587 [main] INFO eBanking - Logging test passed
+2021-12-09 10:14:30,573 [main] INFO eBanking - Username is provided
+2021-12-09 10:14:30,707 [main] INFO eBanking - Username is provided
+2021-12-09 10:14:35,078 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:14:42,689 [main] INFO eBanking - email is provided
+2021-12-09 10:14:50,925 [main] INFO eBanking - click submit
+2021-12-09 10:17:46,872 [main] INFO eBanking - URL Lunched
+2021-12-09 10:17:47,027 [main] INFO eBanking - Entered username3
+2021-12-09 10:17:47,164 [main] INFO eBanking - ENtered Password
+2021-12-09 10:17:57,765 [main] INFO eBanking - Logging test passed
+2021-12-09 10:18:03,087 [main] INFO eBanking - Username is provided
+2021-12-09 10:18:03,288 [main] INFO eBanking - Username is provided
+2021-12-09 10:18:07,814 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:18:15,563 [main] INFO eBanking - email is provided
+2021-12-09 10:18:23,772 [main] INFO eBanking - click submit
+2021-12-09 10:18:46,811 [main] INFO eBanking - URL Lunched
+2021-12-09 10:18:47,168 [main] INFO eBanking - Entered username3
+2021-12-09 10:18:47,264 [main] INFO eBanking - ENtered Password
+2021-12-09 10:18:57,642 [main] INFO eBanking - Logging test passed
+2021-12-09 10:19:02,687 [main] INFO eBanking - Username is provided
+2021-12-09 10:19:02,832 [main] INFO eBanking - Username is provided
+2021-12-09 10:19:07,412 [main] INFO eBanking - Customer detail is provided
+2021-12-09 10:19:14,987 [main] INFO eBanking - email is provided
+2021-12-09 10:19:23,185 [main] INFO eBanking - click submit
+2021-12-11 10:31:33,752 [main] INFO eBanking - URL Lunched
+2021-12-11 10:31:33,979 [main] INFO eBanking - Entered username3
+2021-12-11 10:31:34,094 [main] INFO eBanking - ENtered Password
+2021-12-11 10:31:44,843 [main] INFO eBanking - Logging test passed
+2021-12-11 10:31:50,438 [main] INFO eBanking - Username is provided
+2021-12-11 10:31:50,645 [main] INFO eBanking - Username is provided
+2021-12-11 10:31:55,154 [main] INFO eBanking - Customer detail is provided
+2021-12-11 10:32:02,906 [main] INFO eBanking - email is provided
+2021-12-11 10:32:11,294 [main] INFO eBanking - click submit
+2021-12-11 10:53:53,371 [main] INFO eBanking - URL Lunched
+2021-12-11 10:53:53,549 [main] INFO eBanking - Entered username3
+2021-12-11 10:53:53,661 [main] INFO eBanking - ENtered Password
+2021-12-11 10:54:04,085 [main] INFO eBanking - Logging test passed
+2021-12-11 10:54:09,115 [main] INFO eBanking - Username is provided
+2021-12-11 10:54:09,280 [main] INFO eBanking - Username is provided
+2021-12-11 10:54:13,692 [main] INFO eBanking - Customer detail is provided
+2021-12-11 10:54:21,427 [main] INFO eBanking - email is provided
+2021-12-11 10:54:29,618 [main] INFO eBanking - click submit
+2021-12-11 17:33:27,972 [main] INFO eBanking - URL Lunched
+2021-12-11 17:33:28,290 [main] INFO eBanking - Entered username3
+2021-12-11 17:33:28,360 [main] INFO eBanking - ENtered Password
+2021-12-11 17:33:38,616 [main] INFO eBanking - Logging test passed
+2021-12-11 17:33:44,642 [main] INFO eBanking - Username is provided
+2021-12-11 17:33:44,731 [main] INFO eBanking - Username is provided
+2021-12-11 17:33:48,958 [main] INFO eBanking - Customer detail is provided
+2021-12-11 17:33:56,410 [main] INFO eBanking - email is provided
+2021-12-11 17:34:04,511 [main] INFO eBanking - click submit
+2021-12-12 10:13:01,198 [main] INFO eBanking - Username is provided
+2021-12-12 10:13:01,479 [main] INFO eBanking - Username is provided
+2021-12-12 10:13:06,233 [main] INFO eBanking - Customer detail is provided
+2021-12-12 10:13:14,064 [main] INFO eBanking - email is provided
+2021-12-12 10:13:22,308 [main] INFO eBanking - click submit
+2021-12-12 10:14:45,026 [main] INFO eBanking - URL Lunched
+2021-12-12 10:14:46,101 [main] INFO eBanking - Entered username3
+2021-12-12 10:14:46,257 [main] INFO eBanking - ENtered Password
+2021-12-12 10:14:57,196 [main] INFO eBanking - Logging test passed
+2021-12-12 10:15:05,620 [main] INFO eBanking - Username is provided
+2021-12-12 10:15:05,921 [main] INFO eBanking - Username is provided
+2021-12-12 10:15:10,896 [main] INFO eBanking - Customer detail is provided
+2021-12-12 10:15:19,201 [main] INFO eBanking - email is provided
+2021-12-12 10:15:27,345 [main] INFO eBanking - click submit
